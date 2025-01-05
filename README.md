@@ -12,8 +12,6 @@ File: Air_Quality.csv
 
 Description: The dataset contains information on air quality measurements, including various pollutants and environmental parameters.
 
-Source: (Add details about the dataset source if applicable, e.g., open data portal, government agency, etc.)
-
 ✨ Features
 
 🔍 Data Exploration:
@@ -72,7 +70,7 @@ Classification: Accuracy Score, Confusion Matrix.
 
 The target variable AQI_Range classifies air quality as "Good", "Unhealthy", "Poor", etc.
 
-Features used for prediction: SOi, Noi, Rpi, SPMi (stored in X2).
+Features used for prediction: SOi, Noi, Rpi, SPMi .
 
 🛠️ Tools and Libraries
 
