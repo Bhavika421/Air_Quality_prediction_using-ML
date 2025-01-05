@@ -88,22 +88,6 @@ sklearn for machine learning models and evaluation metrics.
 
 warnings to suppress unnecessary warnings during execution.
 
-🚀 Getting Started
-
-To run this project locally:
-
-Clone this repository:
-
-git clone https://github.com/yourusername/air-quality-analysis.git
-
-Install the required libraries:
-
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-Open the Jupyter Notebook:
-
-jupyter notebook Air_Quality.ipynb
-
 ✅ Results
 
 Through this project, I learned to implement various machine learning algorithms and successfully predicted air quality levels as "Good", "Unhealthy", "Poor", etc., based on features like SOi, Noi, Rpi, and SPMi. The results demonstrated the effectiveness of both regression and classification models for air quality analysis.
